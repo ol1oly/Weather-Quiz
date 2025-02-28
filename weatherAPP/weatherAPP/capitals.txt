@@ -1,0 +1,241 @@
+andorra # Andorra la Vella
+united arab emirates # Abu Dhabi
+afghanistan # Kabul
+antigua and barbuda # St John's
+anguilla # The Valley
+albania # Tirana
+armenia # Yerevan
+angola # Luanda
+argentina # Buenos Aires
+american samoa # Pago Pago
+austria # Vienna
+australia # Canberra
+aruba # Oranjestad
+aland # Mariehamn
+azerbaijan # Baku
+bosnia and herzegovina # Sarajevo
+barbados # Bridgetown
+bangladesh # Dhaka
+belgium # Brussels
+burkina faso # Ouagadougou
+bulgaria # Sofia
+bahrain # Manama
+burundi # Gitega
+benin # Porto-Novo
+saint barthelemy # Gustavia
+bermuda # Hamilton
+brunei # Bandar Seri Begawan
+bolivia # Sucre
+bonaire, sint eustatius, and saba # Kralendijk
+brazil # Brasilia
+bahamas # Nassau
+bhutan # Thimphu
+botswana # Gaborone
+belarus # Minsk
+belize # Belmopan
+canada # Ottawa
+cocos (keeling) islands # West Island
+dr congo # Kinshasa
+central african republic # Bangui
+congo republic # Brazzaville
+switzerland # Bern
+ivory coast # Yamoussoukro
+cook islands # Avarua
+chile # Santiago
+cameroon # Yaounde
+china # Beijing
+colombia # Bogota
+costa rica # San Jose
+cuba # Havana
+cabo verde # Praia
+curacao # Willemstad
+christmas island # Flying Fish Cove
+cyprus # Nicosia
+czechia # Prague
+germany # Berlin
+djibouti # Djibouti
+denmark # Copenhagen
+dominica # Roseau
+dominican republic # Santo Domingo
+algeria # Algiers
+ecuador # Quito
+estonia # Tallinn
+egypt # Cairo
+eritrea # Asmara
+spain # Madrid
+ethiopia # Addis Ababa
+finland # Helsinki
+fiji # Suva
+falkland islands # Stanley
+micronesia # Palikir
+faroe islands # Torshavn
+france # Paris
+gabon # Libreville
+united kingdom # London
+grenada # St. George's
+georgia # Tbilisi
+french guiana # Cayenne
+guernsey # St Peter Port
+ghana # Accra
+gibraltar # Gibraltar
+greenland # Nuuk
+the gambia # Banjul
+guinea # Conakry
+guadeloupe # Basse-Terre
+equatorial guinea # Malabo
+greece # Athens
+south georgia and south sandwich islands # Grytviken
+guatemala # Guatemala City
+guam # Hagatna
+guinea-bissau # Bissau
+guyana # Georgetown
+hong kong # Hong Kong
+honduras # Tegucigalpa
+croatia # Zagreb
+haiti # Port-au-Prince
+hungary # Budapest
+indonesia # Jakarta
+ireland # Dublin
+isle of man # Douglas
+india # New Delhi
+iraq # Baghdad
+iran # Tehran
+iceland # Reykjavik
+italy # Rome
+jersey # Saint Helier
+jamaica # Kingston
+jordan # Amman
+japan # Tokyo
+kenya # Nairobi
+kyrgyzstan # Bishkek
+cambodia # Phnom Penh
+kiribati # Tarawa
+comoros # Moroni
+st kitts and nevis # Basseterre
+north korea # Pyongyang
+south korea # Seoul
+kuwait # Kuwait City
+cayman islands # George Town
+kazakhstan # Nur-Sultan
+laos # Vientiane
+lebanon # Beirut
+saint lucia # Castries
+liechtenstein # Vaduz
+sri lanka # Colombo
+liberia # Monrovia
+lesotho # Maseru
+lithuania # Vilnius
+luxembourg # Luxembourg
+latvia # Riga
+libya # Tripoli
+morocco # Rabat
+monaco # Monaco
+moldova # Chisinau
+montenegro # Podgorica
+saint martin # Marigot
+madagascar # Antananarivo
+marshall islands # Majuro
+north macedonia # Skopje
+mali # Bamako
+myanmar # Nay Pyi Taw
+mongolia # Ulaanbaatar
+macao # Macao
+northern mariana islands # Saipan
+martinique # Fort-de-France
+mauritania # Nouakchott
+montserrat # Plymouth
+malta # Valletta
+mauritius # Port Louis
+maldives # Male
+malawi # Lilongwe
+mexico # Mexico City
+malaysia # Kuala Lumpur
+mozambique # Maputo
+namibia # Windhoek
+new caledonia # Noumea
+niger # Niamey
+norfolk island # Kingston
+nigeria # Abuja
+nicaragua # Managua
+the netherlands # Amsterdam
+norway # Oslo
+nepal # Kathmandu
+nauru # Yaren District
+niue # Alofi
+new zealand # Wellington
+oman # Muscat
+panama # Panama City
+peru # Lima
+french polynesia # Papeete
+papua new guinea # Port Moresby
+philippines # Manila
+pakistan # Islamabad
+poland # Warsaw
+saint pierre and miquelon # Saint-Pierre
+pitcairn islands # Adamstown
+puerto rico # San Juan
+portugal # Lisbon
+palau # Ngerulmud
+paraguay # Asuncion
+qatar # Doha
+reunion # Saint-Denis
+romania # Bucharest
+serbia # Belgrade
+russia # Moscow
+rwanda # Kigali
+saudi arabia # Riyadh
+solomon islands # Honiara
+seychelles # Victoria
+sudan # Khartoum
+sweden # Stockholm
+singapore # Singapore
+saint helena # Jamestown
+slovenia # Ljubljana
+svalbard and jan mayen # Longyearbyen
+slovakia # Bratislava
+sierra leone # Freetown
+san marino # San Marino
+senegal # Dakar
+somalia # Mogadishu
+suriname # Paramaribo
+south sudan # Juba
+sao tome and principe # Sao Tome
+el salvador # San Salvador
+sint maarten # Philipsburg
+syria # Damascus
+eswatini # Mbabane
+turks and caicos islands # Cockburn Town
+chad # N'Djamena
+french southern territories # Port-aux-Francais
+togo # Lome
+thailand # Bangkok
+tajikistan # Dushanbe
+timor-leste # Dili
+turkmenistan # Ashgabat
+tunisia # Tunis
+tonga # Nuku'alofa
+turkiye # Ankara
+trinidad and tobago # Port of Spain
+tuvalu # Funafuti
+taiwan # Taipei
+tanzania # Dodoma
+ukraine # Kyiv
+uganda # Kampala
+united states # Washington
+uruguay # Montevideo
+uzbekistan # Tashkent
+vatican city # Vatican City
+st vincent and grenadines # Kingstown
+venezuela # Caracas
+british virgin islands # Road Town
+u.s. virgin islands # Charlotte Amalie
+vietnam # Hanoi
+vanuatu # Port Vila
+wallis and futuna # Mata-Utu
+samoa # Apia
+kosovo # Pristina
+yemen # Sanaa
+mayotte # Mamoudzou
+south africa # Pretoria
+zambia # Lusaka
+zimbabwe # Harare
